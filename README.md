@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curiousmango13
 - 👀 I’m interested in Software development, Cloud computing, Mobile Development and Databases 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, JavaScript and Node.js
 - 💞️ I’m looking to collaborate on new interesting projects
 - 📫 How to reach me : email me at curiousmango13@gmail.com 
 
